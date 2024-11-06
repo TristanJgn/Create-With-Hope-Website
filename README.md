@@ -28,6 +28,6 @@ I built the website on WordPress mainly leveraging a website builder called Brea
 If you'd like to get in contact with me to learn more about Create With Hope or my experience, I'd love to chat! Please feel free to reach out:
 
 Email: [tristan.jgn@gmail.com](mailto:tristan.jgn@gmail.com)\
-LinkedIn: https://www.linkedin.com/in/tristanjagan/\
+LinkedIn: (https://www.linkedin.com/in/tristanjagan/)\
 Personal Website: https://tristanjagan.dev/
 
