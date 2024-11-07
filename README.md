@@ -17,6 +17,8 @@ Check it out here: [Create With Hope](https://createwithhope.com/)
 
 The website is hosting using a Managed WordPress plan on SiteGround.
 
+No demo video as of right now but please explore the website for yourself!
+
 
 # Build & Learning
 
