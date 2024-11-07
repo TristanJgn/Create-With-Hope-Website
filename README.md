@@ -1,7 +1,7 @@
 
 # Create With Hope
 
-This project was a freelance job where I had the pleasure of working with Hope who is a social media strategist. She owns a small business called Create With Hope where she works with businesses to help them grow their social media prescence, whether by gaining new followers, fostering better engagement, or a combination of both. Hope first started out with, and still runs, a vegan lifestyle page where she has grown her community to over 30K followers. 
+This project was a freelance job where I had the pleasure of working with Hope who is a social media strategist. She owns a small business called Create With Hope where she works with businesses to help them grow their social media presence, whether by gaining new followers, fostering better engagement, or a combination of both. Hope first started out with, and still runs, a vegan lifestyle page where she has grown her community to over 30K followers. 
 
 —Tristan
 
